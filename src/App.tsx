@@ -27,3 +27,4 @@ function App() {
     </StyledContainer>
   )
 }
+export default App;
